@@ -19,10 +19,12 @@
 - Python
 - Kotlin
 - Java
-
+- JS
 #### Tools & Technologies
 - Overleaf (LaTeX)
 - Canva
+- HTML
+- CSS
 - Git
 - ChatGPT
 - GitHub Copilot
