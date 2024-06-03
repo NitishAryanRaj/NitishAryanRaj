@@ -24,6 +24,11 @@
 - Overleaf (LaTeX)
 - Canva
 - Git
+- ChatGPT
+- GitHub Copilot
+- Black Box AI
+- Gemini
+- Various AI tools for text, image, voice, and video editing
 
 #### Subject Knowledge
 - Data Structures & Algorithms
