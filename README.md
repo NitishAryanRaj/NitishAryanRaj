@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Nitish Aryan Raj
+### Hi there 👋, I'm Nitish Singh
 
 ---
 
